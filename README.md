@@ -16,6 +16,9 @@ A Django-based encyclopedia web application that supports Markdown-formatted ent
 
 2. Activate the virtual environment:
 ```bash
+# Linux
+python -m venv venv 
+
 # Windows
 venv\Scripts\activate
 
