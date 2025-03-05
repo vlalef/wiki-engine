@@ -80,7 +80,7 @@ wiki/
   python manage.py runserver
 ```
 
-2. Access the application at `http://127.0.0.1:8000`
+2. Access the application at `http://127.0.0.1:8000` (or `http://localhost:8000`)
 
 ## Template Structure
 
