@@ -26,7 +26,7 @@ venv\Scripts\activate
 source venv/bin/activate
 ```
 
-3. Install required packages:
+3. For install required packages, with the virtual environment activated, run:
 ```bash
   pip install django markdown2
 ```
