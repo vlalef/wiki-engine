@@ -35,7 +35,8 @@ wiki/
 ├── encyclopedia/
 │   ├── static/
 │   │   └── encyclopedia/
-│   │       └── styles.css
+│   │       ├── styles.css
+│   │       └── ...
 │   ├── templates/
 │   │   └── encyclopedia/
 │   │       ├── layout.html
