@@ -41,7 +41,8 @@ wiki/
 │   │       ├── layout.html
 │   │       ├── index.html
 │   │       ├── entry.html
-│   │       └── edit.html
+│   │       ├── edit.html
+│   │       └── ...
 │   └── entries/
 │       ├── Python.md
 │       ├── Django.md
