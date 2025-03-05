@@ -16,14 +16,11 @@ A Django-based encyclopedia web application that supports Markdown-formatted ent
 
 2. Activate the virtual environment:
 ```bash
-# Linux
+# macOS/Linux
 source venv/bin/activate
 
 # Windows
 venv\Scripts\activate
-
-# macOS/Linux
-source venv/bin/activate
 ```
 
 3. For install required packages, with the virtual environment activated, run:
