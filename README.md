@@ -75,7 +75,7 @@ wiki/
 
 ## Running the Project
 
-1. Start the development server:
+1. Start the development server (with the virtual environment activated):
 ```bash
   python manage.py runserver
 ```
