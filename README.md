@@ -1,6 +1,6 @@
 # Wiki
 
-A Django-based encyclopedia web application that supports Markdown-formatted entries.
+A Django-based encyclopedia web application that supports Markdown-formatted entries created as a part of the course CS50 from Harvard.
 
 ## Prerequisites
 
